@@ -79,7 +79,7 @@ const Coinvalue = () => {
             style={{
               borderRadius: "10px"
             }}
-            type="text"
+            type="number"
             id="coinValueInput"
             value={inputValue}
             onChange={handleInputChange}
